@@ -1,0 +1,11 @@
+1. total churned percentage is 26.54%
+2. Gender wise churned customers are almost equal
+	Male:930
+	Female:939
+3. 30.5 % of monthly charges are churned so we need to check this
+4. customers whose tenure is less than year are churned by 999 which is maximum among all
+5. Electronic Check Payment mode is the maximum no of churned customers
+6. there are 3632 no of Admin tickets and 2955 no of Tech tickets so which is again a serious issue and company should acknowledge it
+7. In Internet Service Fibre Optics Customers are more churned (42%)
+8. Customer having Phone Services are also churned by (26.6%)
+9. 41.68% of Senior Citizens are churned so we have to figure out what is going wrong
