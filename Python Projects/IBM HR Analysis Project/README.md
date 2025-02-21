@@ -1,6 +1,7 @@
 # IBM HR Analytics Employee Attrition & Performance
 
-<p align="center"><img width="100%" src="finalmodel_viz/employee_attirtion.png" /></p>
+![Employee_Attirtion](https://github.com/user-attachments/assets/8b244042-e9e9-4e60-9367-c9eb4a66850c)
+
 
 --------------------------------------------------------------------------------
 
