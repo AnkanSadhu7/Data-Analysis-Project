@@ -33,14 +33,6 @@ The objective of the present report is to study factors like salary, satisfactor
   * When you have talented employee’s we need to find ways that you can help expand the employee’s skill set, so that their involvement in the job increases. If their involvement is low, they will get bored and think that they are not growing within the organization
 
 
-
-## Repository Contains
- - Data Folder -- Contains Raw Data Files (Data can be downloaded from [kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset))
- - [AttritionAnalysis report](Attrition_Analysis_report.pdf) -- Employee Attrition Analysis Project Summary Report
- - [Employee-Attrition-Analysis_DT](Employee-Attrition-Analysis_DT.ipynb) -- Project Source Code File
-
-
-
 ### License & CopyRight
 Copyright (c) 2025 [Ankan Sadhu](https://www.linkedin.com/in/ankansadhu)
 ### Trademarks
